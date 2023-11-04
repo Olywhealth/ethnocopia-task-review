@@ -1,4 +1,4 @@
-package com.ethnocopia;
+package com.ethnocopia.model;
 
 import jakarta.persistence.*;
 
